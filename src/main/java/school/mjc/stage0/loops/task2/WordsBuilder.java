@@ -5,6 +5,7 @@ public class WordsBuilder {
         int i=0;
         while (i < chars.length){
             System.out.print(i);
+            i += 1;
         }
     }
 }
